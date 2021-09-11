@@ -1,3 +1,7 @@
+This is forked from https://git.zx2c4.com/password-store. All credits go to Jason Donenfeld for the original project.
+My intention is to make `pass` independent of the initial setup and moving all the storage and setup part to a central location (a remote filesystem perhaps?).
+This will make `pass` a lot easier to use on multiple devices just by using the central location for storage and auth.
+
 ======================
 Simple Password Store
 by Jason Donenfeld
